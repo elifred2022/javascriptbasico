@@ -1,0 +1,44 @@
+valores:
+40
+
+"eliezer"
+
+true  //buleano//
+false //bueano//
+
+null
+undefined
+
+(1,2,3)
+{ nombre: "eliezer" }
+
+variables:
+var nombre = "eliezer";
+
+//declarar
+var edad;
+//inicializar
+edad=41;
+
+//otra variable
+var elementos = ["computadora", "elular"];
+
+var persona = {
+    nombre: "eiezer"
+    edad: 41
+}
+
+FUNCIONES;
+//funciones declarativas
+function miFuncion () {
+    return 3;
+}
+
+miFuncion();
+
+//funciones expresiones
+var miFuncion = function (a,b) {
+    return a + b;
+}
+
+miFuncion();
