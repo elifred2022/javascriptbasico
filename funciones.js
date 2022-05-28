@@ -3,6 +3,7 @@ function miFuncion () {
     return 3;
 }
 
+
 miFuncion();
 
 //funciones expresiones
