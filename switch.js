@@ -13,3 +13,4 @@ switch (numero) {
     default:
         console.log ("ninguno de los casos")
 }
+
